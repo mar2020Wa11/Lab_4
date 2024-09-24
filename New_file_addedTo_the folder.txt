@@ -8,3 +8,5 @@ this file is to upload as branch Lab_4100
 when new changes has done we download the file again
 
 in this case we upload to branch repository
+
+to stand by other remote branches and upload new files
